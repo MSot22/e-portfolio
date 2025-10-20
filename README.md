@@ -8,6 +8,14 @@
 
 ---
 
+| Unit Range | Artefact | Type | Evidence |
+|-------------|-----------|------|-----------|
+| 1–2 | Risk Modelling Comparison | Table & Notes | ![ISO vs STRIDE](images/framework_comparison.png) |
+| 3–6 | Pampered Pets Risk Report | PDF | [View](artefacts/Pampered_Pets_Risk_Report.pdf) |
+| 7–11 | Cathy’s Digital Transformation Report | PDF | [View](artefacts/Cathys_Executive_Summary.pdf) |
+| 7–11 | Monte Carlo Simulation Output | Image | ![Monte Carlo Graph](images/monte_carlo_output.png) |
+
+---
 ## Introduction
 This e-portfolio showcases my learning, professional development, and technical work throughout the *Security and Risk Management* module. It integrates artefacts and reflections that demonstrate progression in identifying, analysing, and mitigating cybersecurity risks within both SME and enterprise contexts.
 
