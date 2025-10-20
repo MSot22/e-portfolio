@@ -8,14 +8,6 @@
 
 ---
 
-| Unit Range | Artefact | Type | Evidence |
-|-------------|-----------|------|-----------|
-| 1–2 | Risk Modelling Comparison | Table & Notes | ![ISO vs STRIDE](images/framework_comparison.png) |
-| 3–6 | Pampered Pets Risk Report | PDF | [View](artefacts/Pampered_Pets_Risk_Report.pdf) |
-| 7–11 | Cathy’s Digital Transformation Report | PDF | [View](artefacts/Cathys_Executive_Summary.pdf) |
-| 7–11 | Monte Carlo Simulation Output | Image | ![Monte Carlo Graph](images/monte_carlo_output.png) |
-
----
 ## Introduction
 This e-portfolio showcases my learning, professional development, and technical work throughout the *Security and Risk Management* module. It integrates artefacts and reflections that demonstrate progression in identifying, analysing, and mitigating cybersecurity risks within both SME and enterprise contexts.
 
@@ -147,6 +139,29 @@ Ultimately, this module has not only expanded my technical competence but also r
 - Alberts, C.J. and Dorofee, A.J. (2002) *Managing Information Security Risks: The OCTAVE Approach.* Boston: Addison-Wesley.  
 - ENISA (2024) *Threat Landscape 2024 – Supply Chain Security.* Athens: European Union Agency for Cybersecurity.  
 - GDPR (EU) 2016/679 and PCI DSS (2018) documents (accessed 2025).  
+
+---
+## Artefacts
+## Pampered Pets Risk Assessment (Units 3–6)
+
+The artefact below illustrates the SME risk analysis performed using ISO 27005, STRIDE, and OCTAVE-S.
+
+![Pampered Pets Threat Model](images/pampered_pets_threat_model.png)
+
+📄 [View Full Report (PDF)](artefacts/Pampered_Pets_Risk_Report.pdf)  
+📄 [View Asset Register (PDF)](artefacts/Asset_Register_Table.pdf)
+
+---
+
+## Cathy’s Digital Transformation (Units 7–11)
+
+The following artefact presents the quantitative enterprise-level risk analysis using FMEA and Monte Carlo simulation, together with the proposed AWS + Azure BC/DR architecture.
+
+![FMEA Table](images/fmea_table.png)  
+![Monte Carlo Simulation Output](images/monte_carlo_results.png)  
+![Hybrid BCDR Architecture](images/bcdr_architecture.png)
+
+📄 [Download Executive Summary (PDF)](artefacts/Cathys_Executive_Summary.pdf)
 
 ---
 
