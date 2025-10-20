@@ -3,8 +3,7 @@
 
 **Student:** Marina Soteriou  
 **Programme:** MSc Cyber Security – University of Essex Online  
-**Professional Role:** Technology Risk & Forensics Staff, EY (Ernst & Young), Nicosia, Cyprus  
-**GitHub Portfolio:** [Add your GitHub Pages link here]  
+**Professional Role:** Technology Risk & Forensics Staff, EY (Ernst & Young), Nicosia, Cyprus   
 **Word Count (Reflection):** 1,000 words  
 
 ---
